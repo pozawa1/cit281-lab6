@@ -95,3 +95,5 @@ class Book {
     this._books.splice(indexOfBookToRemove, 1);
   }
 ```
+
+[Return to Homepage](https://pozawa1.github.io/)
